@@ -2,4 +2,7 @@
 
 ## Packages Used
 
+- firebase
+- react-router-dom
+
 ## API Used
